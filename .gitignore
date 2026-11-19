@@ -1,5 +1,6 @@
 venv/
 __pycache__/
+catboost_info/
 *.pyc
-models/*.cbm
-data/*.csv
+*.csv
+*.cbm
